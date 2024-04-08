@@ -68,7 +68,7 @@ public class Mage : Player
         //Dodge speed
         dodgeTick += Time.deltaTime;
 
-        RaycastHit2D hit = Physics2D.Raycast(transform.position + (Vector3)inputDir.normalized * (teleportDistance+0.5f), transform.forward, 1, LayerMask.GetMask("Wall"));
+        RaycastHit2D hit = Physics2D.Raycast(transform.position + (Vector3)inputDir.normalized * (teleportDistance+0.5f), Vector3.forward, 1, LayerMask.GetMask("Wall"));
 
         if (dodgeTick >= dodgeCool && hit.collider == null && Input.GetKeyDown(KeyCode.Space))
         {
