@@ -1,0 +1,4 @@
+repository "Project-R@Prj_R@cloud"
+  path "/"
+    br "/main"
+    co "/main"
