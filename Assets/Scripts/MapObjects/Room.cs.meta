@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c25515eb281b5ff4ea61854a403d25ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorClosedPrefab: {fileID: 6558143262766919633, guid: 1f91069324dba6d4d832bb2eb7d54d98, type: 3}
+  - DoorClosed: {fileID: 21300000, guid: e2287bdb3ce42d448a59d58430283cfd, type: 3}
+  - DoorOpen: {fileID: 21300000, guid: db1cc05b6780fef4bb534ed9143ec176, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

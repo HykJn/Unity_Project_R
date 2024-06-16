@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0daf131ae64fefd4d892f96389460527
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BoneShootPrefab: {fileID: 8744707498138694341, guid: f4323442897a56e4d948548550d76156, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

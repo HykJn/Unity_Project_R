@@ -1,4 +1,3 @@
-repository "Project-R@Prj_R@cloud"
+rep "Project-R@Prj_R@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"

@@ -5,21 +5,26 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
-  - PlayerMissile
   - Wall
+  - Room
+  - Trap
+  - Item
+  - NoDamage
+  - PlayerMissile
+  - PlayerHitable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Wall
+  - Enemy
   - 
-  - 
-  - 
-  - 
-  - 
+  - Room
+  - NoDamage
+  - Minimap
   - 
   - 
   - 
